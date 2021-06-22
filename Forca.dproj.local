@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/21 17:29:00.000.491,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/21 17:29:50.000.302,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Principal.dfm=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/21 17:29:50.000.302,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Principal.pas=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/21 17:29:52.000.913,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Forca.dproj=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/06/22 13:08:42.000.582,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.pas</Transaction>
+    <Transaction>2021/06/22 13:09:42.000.525,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Perdeu.dfm</Transaction>
+    <Transaction>2021/06/22 13:09:42.000.525,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Perdeu.pas</Transaction>
+    <Transaction>2021/06/22 13:11:17.000.833,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.pas</Transaction>
+    <Transaction>2021/06/22 13:12:06.000.527,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Ganhou.pas</Transaction>
+    <Transaction>2021/06/22 13:12:06.000.527,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Unit2.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\Forca\Ganhou.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
